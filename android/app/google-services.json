@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109877744147",
+    "project_id": "boost-101a9",
+    "storage_bucket": "boost-101a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109877744147:android:0bfd8e4b299f0b500d65e6",
+        "android_client_info": {
+          "package_name": "com.example.boost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiGLZsD_ig14A0bGate1EcO7NXpGlhF18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
